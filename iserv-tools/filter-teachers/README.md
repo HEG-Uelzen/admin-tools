@@ -8,4 +8,4 @@ To run the script you just need python 3 to be installed (no external packages r
 ```sh
 python3 main.py
 ```
-to execute the script
+to execute the script.
