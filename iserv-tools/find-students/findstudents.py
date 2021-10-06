@@ -5,7 +5,7 @@ import platform
 from pathlib import Path
 
 
-def main():
+def findstudents():
     print("Starting...")
 
     # get class id
@@ -53,4 +53,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    findstudents()

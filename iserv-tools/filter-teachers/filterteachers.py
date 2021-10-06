@@ -4,7 +4,7 @@ import platform
 from pathlib import Path
 
 
-def main():
+def filterteachers():
     print("Starting...")
     # find input files
     current = str(Path.cwd().absolute())
@@ -55,4 +55,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    filterteachers()
