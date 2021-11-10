@@ -28,8 +28,8 @@ liam.meyer;InitialPassword;Liam;Meyer;liam.meyer@email-domain-of-users.com
 noah.gustav;InitialPassword;Noah;Gustav;noah.gustav@email-domain-of-users.com
 william.dumbledore;InitialPassword;William;Dumbledore;william.dumbledore@email-domain-of-users.com
 james.granger;InitialPassword;James;Granger;james.granger@email-domain-of-users.com
-logan.müller;InitialPassword;Logan;Müller;logan.müller@email-domain-of-users.com
-benjamin.blümchen;InitialPassword;Benjamin;Blümchen;benjamin.blümchen@email-domain-of-users.com
+logan.mueller;InitialPassword;Logan;Müller;logan.mueller@email-domain-of-users.com
+benjamin.bluemchen;InitialPassword;Benjamin;Blümchen;benjamin.bluemchen@email-domain-of-users.com
 mason.briant;InitialPassword;Mason;Briant;mason.briant@email-domain-of-users.com
 elijah.schwarzkopf;InitialPassword;Elijah;Schwarzkopf;elijah.schwarzkopf@email-domain-of-users.com
 oliver.krummnase;InitialPassword;Oliver;Krummnase;oliver.krummnase@email-domain-of-users.com
