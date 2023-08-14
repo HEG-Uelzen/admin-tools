@@ -1,6 +1,6 @@
 # filter-students
 
-Dieses Skript überprüft, ob sich die Schüler einer IServ-Gruppe auch in der Schuldatenbank (`sibank`) befinden, und listet die Schüler, die nicht enthalten sind. Es listet auch eine Schülerin oder einen Schüler, wenn die Klasse im Datensatz falsch eingetragen.
+Dieses Skript überprüft, ob sich die Schüler einer IServ-Gruppe auch in der Schuldatenbank (`sibank`) befinden, und listet die Schüler, die nicht enthalten sind. Es listet auch eine Schülerin oder einen Schüler, wenn die Klasse im Datensatz falsch eingetragen ist.
 
 ## Das Skript starten
 
